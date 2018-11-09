@@ -8,5 +8,4 @@ void draw() {
   fill(#717171);
   triangle(mouseY, mouseX, mouseX, mouseY, 50,50); 
   
-  save("REFERNCE_SetupDraw.png");
 }
